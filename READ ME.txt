@@ -1,0 +1,19 @@
+Latest update: 
+
+-navbar image button animation
+
+-navbar a animation
+
+-working place order button w/ animation, refreshing the page after 2.5 secs (after the button plays the animation)
+
+-updated the height of the flex to adjust the size of the navbar
+
+-updated the design of the navbar if the screen is smaller than the original size (responsive w/ style)
+
+-added flashing effect to the img logo when hovered
+
+-updated wishlist and cart redirectories to main_login_register.php instead of user_login.php and user_register.php 
+
+-updated the default zoom of the webpage
+
+
